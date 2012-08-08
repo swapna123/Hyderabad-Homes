@@ -43,10 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_side.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user_side.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/user_side.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="255" column="14" selection-start="4205" selection-end="4205" vertical-scroll-proportion="0.6641791">
+            <state line="255" column="14" selection-start="4205" selection-end="4205" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,6 +79,7 @@
         <option value="$PROJECT_DIR$/app/models/user_looking_for_property.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/user_side.css" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -396,11 +406,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/home/_index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="74" selection-start="365" selection-end="365" vertical-scroll-proportion="0.40353984" />
@@ -477,7 +482,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/user_side.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="14" selection-start="4205" selection-end="4205" vertical-scroll-proportion="0.6641791">
+        <state line="255" column="14" selection-start="4205" selection-end="4205" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
